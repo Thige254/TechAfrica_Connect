@@ -1018,8 +1018,8 @@ section {
 }
 
 .slick-custom-buttons:hover {
-    color: #ad1deb;
-    border-color: #ad1deb;
+    color: #eb1d27;
+    border-color: #eb1d2e;
 }
 
 /* -************ */
@@ -1147,7 +1147,7 @@ section {
 }
 
 .post .post-bottom .social-share .icons li a:hover {
-    color: #ad1deb;
+    color: #eb1d1d;
 }
 
 .post .post-bottom .social-share .icons li:not(:last-child) {
@@ -1168,7 +1168,7 @@ section {
 }
 
 .post .post-bottom .more-button a:hover {
-    color: #ad1deb;
+    color: #eb1d3f;
 }
 
 .post.post-list::after {
@@ -1196,7 +1196,7 @@ section {
     width: 30px;
     box-shadow: 0 2px 4px 0px rgba(0, 0, 0, 0.15);
     background-color: #6e72fc;
-    background-image: linear-gradient(315deg, #6e72fc 0%, #ad1deb 74%);
+    background-image: linear-gradient(315deg, #6e72fc 0%, #eb1d2e 74%);
     z-index: 1;
 }
 
@@ -1208,8 +1208,8 @@ section {
 }
 
 .btn-simple:hover {
-    color: #ad1deb;
-    border-color: #ad1deb;
+    color: #eb1d1d;
+    border-color: #eb1d2e;
 }
 
 /* ************** */
@@ -1250,7 +1250,7 @@ section {
     width: 24px;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
     background: #6e72fc;
-    background-image: linear-gradient(315deg, #6e72fc 0%, #ad1deb 74%);
+    background-image: linear-gradient(315deg, #6e72fc 0%, #eb1d1d 74%);
     z-index: 1;
 }
 
@@ -1279,7 +1279,7 @@ section {
 }
 
 .widget ul.list li a:hover {
-    color: #ad1deb;
+    color: #eb1d2e;
 }
 
 .widget ul.list li::after {
@@ -1318,7 +1318,7 @@ section {
     color: #fff;
     padding: 9.5px 36px;
     background-color: #6e72fc;
-    background-image: linear-gradient(315deg, #6e72fc 0%, #ad1deb 74%);
+    background-image: linear-gradient(315deg, #6e72fc 0%, #eb1d1d 74%);
     background-size: 200% auto;
 }
 
@@ -1353,8 +1353,8 @@ section {
 }
 
 .tag:hover {
-    border-color: #ad1deb;
-    color: #ad1deb;
+    border-color: #eb1d27;
+    color: #eb1d1d;
 }
 
 /* *************** */
@@ -1420,8 +1420,8 @@ footer .footer-inner .copyright {
 }
 
 #return-to-top:hover {
-    color: #ad1deb;
-    border-color: #ad1deb;
+    color: #eb1d1d;
+    border-color: #eb1d27;
 }
 
 /* *********** responsiveness **************** */
